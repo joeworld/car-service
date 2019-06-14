@@ -1,0 +1,13 @@
+{
+    "name": "ojo/andela",
+    "description": "My Solution To Andela Technical Interview",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ojo Oluwaseun Joseph",
+            "email": "iamjoestack@gmail.com"
+        }
+    ],
+    "require": {}
+}
